@@ -4,7 +4,7 @@ pythonista-module-versions
 ![alt text](https://img.shields.io/badge/Python-2.7.12-blue.svg "Python 2.7.12")
 ![alt text](https://img.shields.io/badge/Python-3.6.1-blue.svg "Python 3.6.1")
 
-Compare the version numbers of extra modules in Pythonista with PyPI.
+Compare os números de versão de módulos extras no Pythonista com o PyPI.
 
 Results:
 * https://pyup.io/account/repos/github/cclauss/pythonista-module-versions/
