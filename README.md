@@ -6,7 +6,7 @@ pythonista-module-versions
 
 Compare os números de versão de módulos extras no Pythonista com o PyPI.
 
-Results:
+Resultos:
 * https://pyup.io/account/repos/github/cclauss/pythonista-module-versions/
 * https://requires.io/github/cclauss/pythonista-module-versions/requirements/
 
